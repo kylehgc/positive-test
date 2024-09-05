@@ -1,0 +1,228 @@
+{
+	"meta": {
+		"title": "Positive News",
+		"description": "The Positive News is your source for the latest and greatest news surrounding advancements ​in HIV prevention, treatment, and management.",
+		"image": {
+			"src": null,
+			"alt": null
+		}
+	},
+	"variants": [
+		{
+			"favicon": "/icons/favicon-yellow.ico",
+			"animations": {
+				"background": "/animations/english/animation-1-background.json",
+				"foreground": "/animations/english/animation-1-foreground.json",
+				"title": "11,042 people in Ontario are preventing HIV with PrEP."
+			},
+			"hero": {
+				"link": {
+					"alt": "Ontario HIV Treatment Network",
+					"href": "http://www.ohesi.ca/wp-content/uploads/2021/09/OHTN-PrEP-report-2020_vf.pdf"
+				}
+			}
+		},
+		{
+			"favicon": "/icons/favicon-teal.ico",
+			"animations": {
+				"background": "/animations/english/animation-2-background.json",
+				"foreground": "/animations/english/animation-2-foreground.json",
+				"title": "HIV treatment closes the gap on life expectancy."
+			},
+			"hero": {
+				"link": {
+					"alt": "Increases in Life Expectancy among Treated HIV-Positive Individuals in the United States and Canada.",
+					"href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081355"
+				}
+			}
+		},
+		{
+			"favicon": "/icons/favicon-red.ico",
+			"animations": {
+				"background": "/animations/english/animation-3-background.json",
+				"foreground": "/animations/english/animation-3-foreground.json",
+				"title": "There’s 0% chance of transmitting HIV with regular treatment and viral suppression."
+			},
+			"hero": {
+				"link": {
+					"alt": "Estimates of HIV incidence, prevalence and Canada’s progress on meeting the 90-90-90 HIV targets.",
+					"href": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/summary-estimates-hiv-incidence-prevalence-canadas-progress-90-90-90.html"
+				}
+			}
+		}
+	],
+	"header": {
+		"skip": "Skip To Main Content",
+		"share": {
+			"title": "Share the good news",
+			"content": "Finally, some positive news. Check out the latest developments in HIV prevention, treatment, and management here!"
+		},
+		"newsletter": "Don't miss any positive news",
+		"modal": {
+			"pretitle": "Get news you’ll actually",
+			"title": "look forward to reading.",
+			"excerpt": "Sign up for the positive newsletter to get more good news about HIV."
+		}
+	},
+	"form": {
+		"title": "Finally, news you’ll read because you actually want to read.",
+		"content": "Sign up for the positive newsletter to get more good news about HIV.",
+		"input": {
+			"label": "Email address",
+			"placeholder": "email@mail.com",
+			"validation": {
+				"required": "*This field is required.",
+				"email": "*Please enter a valid email."
+			}
+		},
+		"messages": {
+			"success": "Thanks! Stay tuned for some more Positive News.",
+			"errors": {
+				"exists": "You are already on the list.",
+				"default": "The only bad news you’ll get here: something went wrong. Try again."
+			}
+		}
+	},
+	"features": {
+		"share": "Share",
+		"items": [
+			{
+				"title": "Managing HIV together",
+				"quote": "We’ve been together 11 years, and he’s stayed HIV negative.",
+				"content": "Muluba sits down with Breklyn and Melvin, a serodiscordant couple, to talk about the advancements in HIV management in this Positive News interview.",
+				"image": "/images/video-1.jpg",
+				"video": "https://vimeo.com/637469365/89e13532e0",
+				"share": "This just in: with successful treatment and viral suppression, HIV can’t be passed on!"
+			},
+			{
+				"title": "Undetectable = Untransmittable",
+				"quote": "I’m looking forward to living a long, healthy life.",
+				"content": "Randy stops by to share how managing HIV and living a long life go hand in hand.",
+				"image": "/images/video-2.jpg",
+				"video": "https://vimeo.com/637468389/4f5b8f068e",
+				"share": "This just in: with successful treatment and viral suppression, HIV can’t be passed on!"
+			},
+			{
+				"title": "More Ways to Prevent HIV",
+				"quote": "PrEP is a very effective tool to prevent HIV.",
+				"content": "Muluba and Dr. Isaac Bogoch discuss the many ways to prevent HIV infection.",
+				"image": "/images/video-3.jpg",
+				"video": "https://vimeo.com/637626000",
+				"share": "Watch Dr. Isaac Bogach explain the most up-to-date ways you can prevent the spread of HIV in your community."
+			},
+			{
+				"title": "HIV testing is easier than ever",
+				"quote": "Literally putting testing into your hands.",
+				"content": "There are more ways to get an HIV test than ever before, and Dr. O’Byrne stopped by to discuss them.",
+				"image": "/images/video-4.jpg",
+				"video": "https://vimeo.com/637627384",
+				"share": "Breaking news: HIV testing is easier and more flexible than ever before!"
+			},
+			{
+				"title": "HIV Testing for everyone",
+				"quote": "Everyone has a status.",
+				"content": "Muluba learns how flexible HIV testing has become with guest Natasha.",
+				"image": "/images/video-5.jpg",
+				"video": "https://vimeo.com/637628139",
+				"share": "Breaking news: HIV testing is easier and more flexible than ever before!"
+			},
+			{
+				"title": "Learn more about PrEP",
+				"content": "OntarioPrEP.ca has even more great resources for you to learn about PrEP, if it’s right for you, and how to get started.",
+				"image": "/images/feature-6.jpg",
+				"link": {
+					"text": "Learn more",
+					"url": "https://ontarioprep.ca/"
+				}
+			},
+			{
+				"title": "Find a Testing Site",
+				"content": "Sexual Health Ontario can help you find a clinic to get an HIV test at your convenience.",
+				"image": "/images/feature-7.jpg",
+				"link": {
+					"text": "Find a clinic",
+					"url": "https://sexualhealthontario.ca/en/find-clinic"
+				}
+			},
+			{
+				"title": "EXPLAINING U=U",
+				"content": "CATIE goes deeper to explain how when you’re undetectable, you can’t pass HIV on. ",
+				"image": "/images/feature-8.jpg",
+				"link": {
+					"text": "Learn more",
+					"url": "https://www.catie.ca/en/positiveside/summer-2017/uu "
+				}
+			},
+			{
+				"title": "Know when to get tested for HIV",
+				"content": "An upcoming self-assessment tool will let you know the right time to get an HIV test.",
+				"image": "/images/feature-9.jpg",
+				"link": {
+					"text": "Learn More",
+					"url": "https://getakit.ca/sti-screener/"
+				}
+			}
+		]
+	},
+	"about": {
+		"title": "About OHTN",
+		"image": "/images/ohtn-logo.png",
+		"alt": "Ontario HIV Treatment Network",
+		"content": [
+			[
+				"The Ontario HIV Treatment Network (OHTN) is a non-profit network funded by the Ontario Ministry of Health.",
+				"Our mission is to improve the health and lives of people living with and at risk of HIV by using data and evidence to drive change."
+			],
+			[
+				"The OHTN works collaboratively with our partners to gather and analyze data, conduct targeted high-impact research and support the use of the best available data and research evidence."
+			]
+		],
+		"link": {
+			"alt": "Visit OHTN",
+			"href": "https://www.ohtn.on.ca"
+		}
+	},
+	"footer": {
+		"social": [
+			{
+				"link": {
+					"alt": "Facebook",
+					"href": "https://www.facebook.com/theOHTN/"
+				},
+				"icon": "Facebook"
+			},
+			{
+				"link": {
+					"alt": "Twitter",
+					"href": "https://twitter.com/theohtn"
+				},
+				"icon": "Twitter"
+			},
+			{
+				"link": {
+					"alt": "YouTube",
+					"href": "https://www.youtube.com/user/OntarioHIVTreatment"
+				},
+				"icon": "YouTube"
+			},
+			{
+				"link": {
+					"alt": "Instagram",
+					"href": "https://www.instagram.com/the_ohtn/"
+				},
+				"icon": "Instagram"
+			}
+		],
+		"links": [
+			{
+				"alt": "Privacy Policy",
+				"href": "https://www.ohtn.on.ca/about/privacy-policy/"
+			}
+		],
+		"content": [
+			"Ontario HIV Treatment Network",
+			"1300 Yonge Street, Suite 600, Toronto ON M4T 1X3"
+		],
+		"phone": "416-642-6486"
+	}
+}
