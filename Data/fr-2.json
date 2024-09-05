@@ -1,158 +1,175 @@
 {
-	"meta" : {
-		"title" : "Nouvelles Positives",
-		"description" : "Les Nouvelles Positives sont votre source pour les plus récentes et importantes nouvelles concernant les progrès en matière de prévention, de traitement et de prise en charge du VIH.",
-		"image" : {
-			"src" : null,
-			"alt" : null
+	"meta": {
+		"title": "Nouvelles Positives",
+		"description": "Les Nouvelles Positives sont votre source pour les plus récentes et importantes nouvelles concernant les progrès en matière de prévention, de traitement et de prise en charge du VIH.",
+		"image": {
+			"src": null,
+			"alt": null
 		}
 	},
-	"variants" : [
+	"variants": [
 		{
-			"favicon" : "/icons/favicon-yellow.ico",
-			"animations" : {
-				"background" : "/animations/english/animation-1-background.json",
-				"foreground" : "/animations/english/animation-1-foreground-fr.json",
-				"title" : "En Ontario, plus de 10 000 personnes utilisent la PrEP pour la prévention du VIH."
+			"favicon": "/icons/favicon-yellow.ico",
+			"animations": {
+				"background": "/animations/english/animation-1-background.json",
+				"foreground": "/animations/english/animation-1-foreground-fr.json",
+				"title": "En Ontario, plus de 10 000 personnes utilisent la PrEP pour la prévention du VIH."
 			},
-			"hero" : {
-				"link" : {
-					"alt" : "Ontario HIV Treatment Network",
-					"href" : "http://www.ohesi.ca/wp-content/uploads/2021/09/OHTN-PrEP-report-2020_vf.pdf"
+			"hero": {
+				"link": {
+					"alt": "Ontario HIV Treatment Network",
+					"href": "http://www.ohesi.ca/wp-content/uploads/2021/09/OHTN-PrEP-report-2020_vf.pdf"
 				}
 			}
 		},
 		{
-			"favicon" : "/icons/favicon-teal.ico",
-			"animations" : {
-				"background" : "/animations/english/animation-2-background.json",
-				"foreground" : "/animations/english/animation-2-foreground-fr.json",
-				"title" : "Le traitement du VIH comble l'écart en matière d'espérance de vie."
+			"favicon": "/icons/favicon-teal.ico",
+			"animations": {
+				"background": "/animations/english/animation-2-background.json",
+				"foreground": "/animations/english/animation-2-foreground-fr.json",
+				"title": "Le traitement du VIH comble l'écart en matière d'espérance de vie."
 			},
-			"hero" : {
-				"link" : {
-					"alt" : "Augmentation de l'espérance de vie chez les personnes séropositives traitées aux États-Unis et au Canada.",
-					"href" : "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081355"
+			"hero": {
+				"link": {
+					"alt": "Augmentation de l'espérance de vie chez les personnes séropositives traitées aux États-Unis et au Canada.",
+					"href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081355"
 				}
 			}
 		},
 		{
-			"favicon" : "/icons/favicon-red.ico",
-			"animations" : {
-				"background" : "/animations/english/animation-3-background-fr.json",
-				"foreground" : "/animations/english/animation-3-foreground-fr.json",
-				"title" : "Avec un traitement régulier et une suppression virale, le risque de transmission du VIH est de 0%."
+			"favicon": "/icons/favicon-red.ico",
+			"animations": {
+				"background": "/animations/english/animation-3-background-fr.json",
+				"foreground": "/animations/english/animation-3-foreground-fr.json",
+				"title": "Avec un traitement régulier et une suppression virale, le risque de transmission du VIH est de 0%."
 			},
-			"hero" : {
-				"link" : {
-					"alt" : "Estimations de l'incidence et de la prévalence du VIH et les progrès réalisés par le Canada pour atteindre les objectifs 90-90-90 en matière de VIH.",
-					"href" : "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/summary-estimates-hiv-incidence-prevalence-canadas-progress-90-90-90.html"
+			"hero": {
+				"link": {
+					"alt": "Estimations de l'incidence et de la prévalence du VIH et les progrès réalisés par le Canada pour atteindre les objectifs 90-90-90 en matière de VIH.",
+					"href": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/summary-estimates-hiv-incidence-prevalence-canadas-progress-90-90-90.html"
 				}
 			}
 		}
 	],
-	"header" : {
-		"skip" : "Passer au contenu principal",
-		"share" : {
-			"title" : "Partagez les bonnes nouvelles",
-			"content" : "Enfin, quelques nouvelles positives. Découvrez ici les derniers développements en matière de prévention, de traitement et de prise en charge du VIH !"
+	"header": {
+		"skip": "Passer au contenu principal",
+		"share": {
+			"title": "Partagez les bonnes nouvelles",
+			"content": "Enfin, quelques nouvelles positives. Découvrez ici les derniers développements en matière de prévention, de traitement et de prise en charge du VIH !"
 		},
-		"newsletter" : "Ne manquez pas les nouvelles positives",
-		"modal" : {
-			"pretitle" : "Recevez des nouvelles",
-			"title" : "que vous aurez réellement hâte de lire.",
-			"excerpt" : "Inscrivez-vous la bulletin d’information positif pour recevoir d'autres bonnes nouvelles sur le VIH."
+		"newsletter": "Ne manquez pas les nouvelles positives",
+		"modal": {
+			"pretitle": "Recevez des nouvelles",
+			"title": "que vous aurez réellement hâte de lire.",
+			"excerpt": "Inscrivez-vous la bulletin d’information positif pour recevoir d'autres bonnes nouvelles sur le VIH."
 		}
 	},
-	"form" : {
-		"title" : "Enfin des nouvelles que vous aurez réellement envie de lire",
-		"content" : "Inscrivez-vous la bulletin d’information positif pour recevoir d'autres bonnes nouvelles sur le VIH.",
-		"input" : {
-			"label" : "Adresse e-mail",
-			"placeholder" : "email@mail.com",
-			"validation" : {
-				"required" : "*Ce champ est obligatoire.",
-				"email" : "*Veuillez saisir un courriel valide."
+	"form": {
+		"title": "Enfin des nouvelles que vous aurez réellement envie de lire",
+		"content": "Inscrivez-vous la bulletin d’information positif pour recevoir d'autres bonnes nouvelles sur le VIH.",
+		"input": {
+			"label": "Adresse e-mail",
+			"placeholder": "email@mail.com",
+			"validation": {
+				"required": "*Ce champ est obligatoire.",
+				"email": "*Veuillez saisir un courriel valide."
 			}
 		},
-		"messages" : {
-			"success" : "Merci! Restez à l'affût d'autres Nouvelles Positives.",
-			"errors" : {
-				"exists" : "Vous êtes déjà sur la liste.",
-				"default" : "Les seules mauvaises nouvelles que vous obtiendrez ici : quelque chose n’a pas marché. Veuillez réessayez."
+		"messages": {
+			"success": "Merci! Restez à l'affût d'autres Nouvelles Positives.",
+			"errors": {
+				"exists": "Vous êtes déjà sur la liste.",
+				"default": "Les seules mauvaises nouvelles que vous obtiendrez ici : quelque chose n’a pas marché. Veuillez réessayez."
 			}
 		}
 	},
-	"features" : {
-		"share" : "partager",
-		"items" : [
+	"features": {
+		"share": "partager",
+		"items": [
 			{
-				"title" : "Indétectable = intransmissible",
-				"quote" : "Ça fait vraiment du bien d’avoir d’autres outils de prévention.",
-				"content" : "Vincent nous donne les détails sur I=I et la manière dont la plupart des personnes vivant avec le VIH ne peuvent pas le transmettre.",
-				"image" : "/images/video-1-fr.png",
-				"video" : "https://vimeo.com/637466882/80b4dc54d2",
-				"share" : "Dernière nouvelle : avec un traitement et une suppression virale réussis, le VIH ne peut pas être transmis !"
-			},
-			{
-				"title" : "Des Nouvelles réjouissantes sur la Prévention du VIH",
-				"quote" : "On a tous droit de prendre la PreP.",
-				"content" : "Eno discute avec Sékou des stratégies de prévention du VIH pour les différents groupes à risque.",
-				"image" : "/images/video-2-fr.png",
-				"video" : "https://vimeo.com/637626919",
-				"share" : "Regardez le Dr Isaac Bogach expliquer les méthodes les plus récentes de prévenir la propagation du VIH dans votre communauté."
-			},
-			{
-				"title" : "Les Progrès au niveau du dépistage du VIH",
-				"quote" : "L’auto-test du VIH disponible en ligne est gratuit, discret, et prendre quand tu veux et avec qui tu veux!",
-				"content" : "Eno et le Dr. O'Byrne parlent des nouvelles réjouissantes dans le domaine du dépistage du VIH",
-				"image" : "/images/video-3-fr.png",
-				"video" : "https://vimeo.com/638663337",
-				"share" : "Dernières Nouvelles : le dépistage du VIH est plus que jamais facile et flexible !"
-			},
-			{
-				"title" : "En savoir plus sur la PrEP",
-				"content" : "OntarioPrEP.ca vous propose d'autres excellentes ressources pour vous renseigner sur la PrEP, savoir si elle vous convient et comment la commencer.",
-				"image" : "/images/feature-6.jpg",
-				"link" : {
-					"text" : "En savoir plus",
-					"url" : "https://ontarioprep.ca/"
+				"title": "Le Meow Le Meow Le Meow",
+				"image": "/images/feature-10.jpg",
+				"content": "Le Meow Le Meow Le Meow",
+				"link": {
+					"text": "La Meow La Meow La Meow",
+					"url": "https://www.google.com"
 				}
 			},
 			{
-				"title" : "Trouver un site de dépistage",
-				"content" : "Santé Sexuelle Ontario peut vous aider à trouver une clinique pour passer un test de dépistage du VIH à votre convenance.",
-				"image" : "/images/feature-7.jpg",
-				"link" : {
-					"text" : "Trouver une clinique",
-					"url" : "https://sexualhealthontario.ca/fr/trouver-une-clinique"
+				"title": "Positive News : La transition vers les soins pour adultes",
+				"quote": "La meilleure chose dont j'ai bénéficié lors de ces Sommets HYPE, est le pouvoir de la communauté. - Ashley Rose",
+				"content": "Muluba rencontre la militante VIH Ashley Rose Murphy, le Dr. Jason Brophy, spécialiste des maladies infectieuses pédiatriques, et le directeur général du AIDS Committee of Durham Region, Adrian Betts, pour parler du Sommet HYPE et des défis liés à la transition des soins du VIH pédiatriques vers les soins pour adultes. \n\n À ce jour, la prévention, le traitement et les soins du VIH ont été couvert par Positive News. Dans cette relancée, chaque nouvelle vidéo approfondira sur des sujets tels que : les progrès de la gestion du VIH, le pouvoir de U=U, la PrEP comme outil de prévention, l'auto-dépistage du VIH, le dépistage communautaire, et bien plus encore !",
+				"image": "/images/video-6.png",
+				"video": "https://vimeo.com/1005892833/1fbe4912b2",
+				"share": "Pour des ressources telles que les Transition Accord mentionnés dans la vidéo, cliquez ici"
+			},
+			{
+				"title": "Indétectable = intransmissible",
+				"quote": "Ça fait vraiment du bien d’avoir d’autres outils de prévention.",
+				"content": "Vincent nous donne les détails sur I=I et la manière dont la plupart des personnes vivant avec le VIH ne peuvent pas le transmettre.",
+				"image": "/images/video-1-fr.png",
+				"video": "https://vimeo.com/637466882/80b4dc54d2",
+				"share": "Dernière nouvelle : avec un traitement et une suppression virale réussis, le VIH ne peut pas être transmis !"
+			},
+			{
+				"title": "Des Nouvelles réjouissantes sur la Prévention du VIH",
+				"quote": "On a tous droit de prendre la PreP.",
+				"content": "Eno discute avec Sékou des stratégies de prévention du VIH pour les différents groupes à risque.",
+				"image": "/images/video-2-fr.png",
+				"video": "https://vimeo.com/637626919",
+				"share": "Regardez le Dr Isaac Bogach expliquer les méthodes les plus récentes de prévenir la propagation du VIH dans votre communauté."
+			},
+			{
+				"title": "Les Progrès au niveau du dépistage du VIH",
+				"quote": "L’auto-test du VIH disponible en ligne est gratuit, discret, et prendre quand tu veux et avec qui tu veux!",
+				"content": "Eno et le Dr. O'Byrne parlent des nouvelles réjouissantes dans le domaine du dépistage du VIH",
+				"image": "/images/video-3-fr.png",
+				"video": "https://vimeo.com/638663337",
+				"share": "Dernières Nouvelles : le dépistage du VIH est plus que jamais facile et flexible !"
+			},
+			{
+				"title": "En savoir plus sur la PrEP",
+				"content": "OntarioPrEP.ca vous propose d'autres excellentes ressources pour vous renseigner sur la PrEP, savoir si elle vous convient et comment la commencer.",
+				"image": "/images/feature-6.jpg",
+				"link": {
+					"text": "En savoir plus",
+					"url": "https://ontarioprep.ca/"
 				}
 			},
 			{
-				"title" : "Expliquer I=I",
-				"content" : "CATIE donne plus de details loin pour expliquer comment vous ne pouvez pas transmettre le VIH lorsque vous êtes indétectable.",
-				"image" : "/images/feature-8.jpg",
-				"link" : {
-					"text" : "En savoir plus",
-					"url" : "https://www.catie.ca/fr/visionpositive/ete-2017/ii"
+				"title": "Trouver un site de dépistage",
+				"content": "Santé Sexuelle Ontario peut vous aider à trouver une clinique pour passer un test de dépistage du VIH à votre convenance.",
+				"image": "/images/feature-7.jpg",
+				"link": {
+					"text": "Trouver une clinique",
+					"url": "https://sexualhealthontario.ca/fr/trouver-une-clinique"
 				}
 			},
 			{
-				"title" : "Savoir quand faire un test de dépistage du VIH",
-				"content" : " Un outil d'auto-évaluation à venir vous permettra de savoir quel est le bon moment pour faire un test de dépistage du VIH.",
-				"image" : "/images/feature-9.jpg",
-				"link" : {
-					"text" : "En savoir plus",
-					"url" : "https://getakit.ca/sti-screener/fr/"
+				"title": "Expliquer I=I",
+				"content": "CATIE donne plus de details loin pour expliquer comment vous ne pouvez pas transmettre le VIH lorsque vous êtes indétectable.",
+				"image": "/images/feature-8.jpg",
+				"link": {
+					"text": "En savoir plus",
+					"url": "https://www.catie.ca/fr/visionpositive/ete-2017/ii"
+				}
+			},
+			{
+				"title": "Savoir quand faire un test de dépistage du VIH",
+				"content": " Un outil d'auto-évaluation à venir vous permettra de savoir quel est le bon moment pour faire un test de dépistage du VIH.",
+				"image": "/images/feature-9.jpg",
+				"link": {
+					"text": "En savoir plus",
+					"url": "https://getakit.ca/sti-screener/fr/"
 				}
 			}
 		]
 	},
-	"about" : {
-		"title" : "À propos d'OHTN",
-		"image" : "/images/ohtn-logo.png",
-		"alt" : "Ontario HIV Treatment Network",
-		"content" : [
+	"about": {
+		"title": "À propos d'OHTN",
+		"image": "/images/ohtn-logo.png",
+		"alt": "Ontario HIV Treatment Network",
+		"content": [
 			[
 				"Ontario HIV Treatment Network (OHTN) est un réseau à but non lucratif financé par le Ministère de la Santé de l'Ontario.",
 				"Notre mission est d'améliorer la santé et la vie des personnes vivant avec le VIH ou à risque de le contracter, en utilisant des données pour favoriser le changement."
@@ -161,52 +178,52 @@
 				"OHTN travaille en collaboration avec ses partenaires pour recueillir et analyser des données, mener des recherches ciblées à fort impact et soutenir l'utilisation des meilleures données de recherche disponibles."
 			]
 		],
-		"link" : {
-			"alt" : "Visitez OHTN",
-			"href" : "https://www.ohtn.on.ca"
+		"link": {
+			"alt": "Visitez OHTN",
+			"href": "https://www.ohtn.on.ca"
 		}
 	},
-	"footer" : {
-		"social" : [
+	"footer": {
+		"social": [
 			{
-				"link" : {
-					"alt" : "Facebook",
-					"href" : "https://www.facebook.com/theOHTN/"
+				"link": {
+					"alt": "Facebook",
+					"href": "https://www.facebook.com/theOHTN/"
 				},
-				"icon" : "Facebook"
+				"icon": "Facebook"
 			},
 			{
-				"link" : {
-					"alt" : "Twitter",
-					"href" : "https://twitter.com/theohtn"
+				"link": {
+					"alt": "Twitter",
+					"href": "https://twitter.com/theohtn"
 				},
-				"icon" : "Twitter"
+				"icon": "Twitter"
 			},
 			{
-				"link" : {
-					"alt" : "YouTube",
-					"href" : "https://www.youtube.com/user/OntarioHIVTreatment"
+				"link": {
+					"alt": "YouTube",
+					"href": "https://www.youtube.com/user/OntarioHIVTreatment"
 				},
-				"icon" : "YouTube"
+				"icon": "YouTube"
 			},
 			{
-				"link" : {
-					"alt" : "Instagram",
-					"href" : "https://www.instagram.com/the_ohtn/"
+				"link": {
+					"alt": "Instagram",
+					"href": "https://www.instagram.com/the_ohtn/"
 				},
-				"icon" : "Instagram"
+				"icon": "Instagram"
 			}
 		],
-		"links" : [
+		"links": [
 			{
-				"alt" : "Politique de Confidentialité",
-				"href" : "https://www.ohtn.on.ca/about/privacy-policy/"
+				"alt": "Politique de Confidentialité",
+				"href": "https://www.ohtn.on.ca/about/privacy-policy/"
 			}
 		],
-		"content" : [
+		"content": [
 			"Ontario HIV Treatment Network",
 			"1300 Yonge Street, Suite 600, Toronto ON M4T 1X3"
 		],
-		"phone" : "416-642-6486"
+		"phone": "416-642-6486"
 	}
 }
