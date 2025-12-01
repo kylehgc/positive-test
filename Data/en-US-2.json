@@ -88,7 +88,7 @@
 		"items": [
 			{
 				"title": "Positive News: Transition to Adult Care",
-				"quote": "The greatest thing I have benefited from in these HYPE Summits is the power of community.\" - Ashley Rose,"
+				"quote": "The greatest thing I have benefited from in these HYPE Summits is the power of community.\" - Ashley Rose",
 				"content": "Muluba sits down with HIV advocate Ashley Rose Murphy, Pediatric Infectious Disease Specialist Dr. Jason Brophy and AIDS Committee of Durham Region Executive Director Adrian Betts to talk about the HYPE Summit and the challenges of transitioning from pediatric HIV care to adult care. \n\n To date, Positive News has covered HIV prevention, treatment, and care. Each new video in the relaunched series will dive deeper into topics like advancements in HIV management, the power of U=U, PrEP as a preventative tool, HIV self-testing, community testing, and more!",
 				"image": "/images/video-6.png",
 				"video": "https://vimeo.com/1005892833/1fbe4912b2",
@@ -99,8 +99,17 @@
 				}
 			},
 			{
+				"title": "Transition Accord",
+				"image": "/images/feature-10.jpg",
+				"content": "The Transition Accord aims to ensure that youth living with HIV have a successful transition from pediatric to adult care. The Accord outlines a list of commitments for pediatric clinics, adult clinics and youth who are transitioning in care, in order to make for a successful process.",
+				"link": {
+					"text": "View the accord",
+					"url": "https://www.ohtn.on.ca/wp-content/uploads/2024/09/Positive-Youth-Transition-Accord.pdf"
+				}
+			},
+			{
 				"title": "Managing HIV together",
-				"quote": "We've been together 11 years, and hes stayed HIV negative.",
+				"quote": "We've been together 11 years, and he’s stayed HIV negative.",
 				"content": "Muluba sits down with Breklyn and Melvin, a serodiscordant couple, to talk about the advancements in HIV management in this Positive News interview.",
 				"image": "/images/video-1.jpg",
 				"video": "https://vimeo.com/637469365/89e13532e0",
