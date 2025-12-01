@@ -87,6 +87,16 @@
 		"share": "Share",
 		"items": [
 			{
+				"title": "Positive News: Newcomer Support",
+				"quote": "Often times, depending on the situation with their family history, their country of origin, not always do they feel safe to be able to discuss openly their HIV status. I want to be that person that they can trust.\" – Brenda Kirkbride, RN – Haven, Sudbury Outpatient Centre",
+				"content": "Here is our latest Positive News Video Episode. The host, Emmanuel Ndyanabo had conversations with three guests who offer valuable insights in to creating stigma free and welcoming services for newcomers living with HIV in Ontario. \n\n The guests highlight wise practices that organizations can adopt including equitable and barrier free HIV care with meaningful involvement of people living with HIV. \n\n This video serves as a useful resource for service providers seeking to enhance their HIV-related programming and foster stigma-free, person-centered care.",
+				"image": "http://www.ohtn.on.ca/wp-content/uploads/2025/12/new-pn-hero.png",
+				"video": "https://vimeo.com/1142109291",
+				"share": "How can we create stigma free and welcoming services for newcomers living with HIV in Ontario?",
+			},
+
+
+			{
 				"title": "Positive News: Transition to Adult Care",
 				"quote": "The greatest thing I have benefited from in these HYPE Summits is the power of community.\" - Ashley Rose",
 				"content": "Muluba sits down with HIV advocate Ashley Rose Murphy, Pediatric Infectious Disease Specialist Dr. Jason Brophy and AIDS Committee of Durham Region Executive Director Adrian Betts to talk about the HYPE Summit and the challenges of transitioning from pediatric HIV care to adult care. \n\n To date, Positive News has covered HIV prevention, treatment, and care. Each new video in the relaunched series will dive deeper into topics like advancements in HIV management, the power of U=U, PrEP as a preventative tool, HIV self-testing, community testing, and more!",
@@ -98,15 +108,7 @@
 					"url": "/resources"
 				}
 			},
-			{
-				"title": "Transition Accord",
-				"image": "/images/feature-10.jpg",
-				"content": "The Transition Accord aims to ensure that youth living with HIV have a successful transition from pediatric to adult care. The Accord outlines a list of commitments for pediatric clinics, adult clinics and youth who are transitioning in care, in order to make for a successful process.",
-				"link": {
-					"text": "View the accord",
-					"url": "https://www.ohtn.on.ca/wp-content/uploads/2024/09/Positive-Youth-Transition-Accord.pdf"
-				}
-			},
+
 			{
 				"title": "Managing HIV together",
 				"quote": "We've been together 11 years, and he’s stayed HIV negative.",
