@@ -87,12 +87,15 @@
 		"share": "partager",
 		"items": [
 			{
-				"title": "L’Accord de transition",
-				"image": "/images/feature-10.jpg",
-				"content": "L’Accord de transition vise à garantir une transition réussite des soins pédiatriques aux soins pour adultes pour les jeunes vivant avec le VIH. Cet Accord présente une liste d'engagements à suivre pour les cliniques pédiatriques, les cliniques pour adultes et les jeunes faisant cette transition, pour faire de ce processus un succès.",
-				"link": {
-					"text": "En savoir plus",
-					"url": "https://www.ohtn.on.ca/wp-content/uploads/2024/09/Positive-Youth-Transition-Accord.pdf"
+				"title": "Nouvelles positives : Soutien aux nouveaux arrivants",
+				"quote": "« Souvent, selon leur situation familiale et leur pays d'origine, les nouveaux arrivants ne se sentent pas toujours en sécurité pour parler ouvertement de leur séropositivité. Je veux être la personne en qui ils peuvent avoir confiance. » – Brenda Kirkbride, infirmière autorisée – Centre de soins ambulatoires Haven, Sudbury",
+				"content": "Voici notre plus récent épisode vidéo de Nouvelles positives. L'animateur, Emmanuel Ndyanabo, s'est entretenu avec trois invités qui offrent de précieux conseils pour créer des services accueillants et sans stigmatisation pour les nouveaux arrivants vivant avec le VIH en Ontario. \n\n Les invités mettent en lumière des pratiques judicieuses que les organismes peuvent adopter, notamment des soins équitables et sans obstacles pour les personnes vivant avec le VIH, avec une participation significative de ces personnes. \n\n Cette vidéo constitue une ressource utile pour les fournisseurs de services qui souhaitent améliorer leurs programmes liés au VIH et promouvoir des soins personnalisés et sans stigmatisation.",
+				"image": "http://www.ohtn.on.ca/wp-content/uploads/2025/12/new-pn-hero.png",
+				"video": "https://vimeo.com/1152009657",
+				"share": "Comment créer des services accueillants et exempts de stigmatisation pour les nouveaux arrivants vivant avec le VIH en Ontario ?",
+		        "link": {
+					"text": "Visitez KnowHIV.ca pour obtenir plus d'information sur les services offerts aux personnes vivant avec le VIH.",
+					"url": "https://knowhiv.ca/resources/"
 				}
 			},
 			{
